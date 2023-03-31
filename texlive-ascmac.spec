@@ -1,6 +1,6 @@
 Name:		texlive-ascmac
 Version:	53411
-Release:	1
+Release:	2
 Summary:	Boxes and picture macros with Japanese vertical writing support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ascmac
