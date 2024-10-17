@@ -3,7 +3,7 @@ Version:	53411
 Release:	2
 Summary:	Boxes and picture macros with Japanese vertical writing support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ascmac
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ascmac
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ascmac.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ascmac.doc.r%{version}.tar.xz
